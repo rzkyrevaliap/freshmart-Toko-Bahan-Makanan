@@ -1,0 +1,6 @@
+{
+  "name": "FreshMart - Sistem Kasir Toko",
+  "description": "Aplikasi transaksi toko bahan makanan dengan fitur katalog, keranjang belanja, cetak struk, dan pengujian sistem otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
